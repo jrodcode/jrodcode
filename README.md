@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**jrodcode/jrodcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🖥️ I've been coding with LAMP Stack for over 6 years
 - 🔭 I’m currently working on <a href="https://trackitor.net">TrackiTOR</a>
 - 🌱 I’m currently learning DevOps
